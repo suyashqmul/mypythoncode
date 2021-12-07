@@ -1,0 +1,13 @@
+x = 0
+for x in range(0,100):
+    if x % 7 == 0:
+        print (x)
+        x += 1
+for x in range(100,200):
+    if x % 8 == 0:
+        print (x)
+        x += 1
+for x in range(200,300):
+    if x % 9 == 0:
+        print (x)
+        x += 1
