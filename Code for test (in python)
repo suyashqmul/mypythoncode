@@ -1,3 +1,4 @@
+print("This code will iterate in multiples of 7 up until 100, then in multiples of 8 up to 200, then multiples of 9 up to 300")
 x = 0
 for x in range(0,100):
     if x % 7 == 0:
